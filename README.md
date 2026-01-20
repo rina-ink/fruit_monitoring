@@ -130,6 +130,10 @@ Audit- und ISO-17025-konform gedacht
 
 - Übersichtstabellen für Berichte
 
+
+![project_img](images/geo.png)
+Figure 2. Geo-Ansicht
+
 ## Beispielhafte Fragestellungen
 
 - Welche Produktgruppen werden am häufigsten untersucht?
@@ -218,6 +222,12 @@ Die dargestellten Auswertungen dienen der fachlichen Einordnung und Trendanalyse
 Einzelne MRL-Überschreitungen stellen nicht automatisch ein gesundheitliches Risiko dar, da MRLs rechtliche und keine toxikologischen Grenzwerte sind.
 Eine sachliche Interpretation im Kontext ist daher essenziell.
 
+## Datensatz
+
+Hinweis:
+Die verwendeten Daten sind anonymisiert, beispielhaft - bzw. simuliert.
+Der Fokus liegt auf Methodik, Analyse und Interpretation, nicht auf einzelnen Unternehmen oder Produkten.
+
 ## Hintergrund
 
 Dieses Projekt ist im Kontext von Lebensmittelsicherheit, Rückstandsmonitoring und Qualitätssicherung angesiedelt und richtet sich an Fachpersonen aus:
@@ -242,14 +252,12 @@ Dieses Projekt passt besonders zu Rollen wie:
 
 - Quality & Compliance Analyst/in (Lebensmittel)
 
+
 ## Über mich
 
 Naturwissenschaftlicher Hintergrund mit Berufserfahrung in Pestizidanalytik und Datenbewertung.
 Besonderes Interesse an datengetriebenen Ansätzen zur Verbesserung von Qualitätssystemen und Verbraucherschutz.
 
-Hinweis:
-Die verwendeten Daten sind anonymisiert, beispielhaft - bzw. simuliert.
-Der Fokus liegt auf Methodik, Analyse und Interpretation, nicht auf einzelnen Unternehmen oder Produkten.
 
 ## Kontakt
 
