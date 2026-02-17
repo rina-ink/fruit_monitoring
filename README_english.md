@@ -151,6 +151,9 @@ Figure 2. Geo view
 (MRL = legal limit, not a toxicological limit)
 - Reproducible and transparent results
 
+![project_img](images/trends.png)
+Figure 3. Trends
+
 ## Tools & skills used
 - Python (pandas, numpy, matplotlib)
 - Exploratory data analysis (EDA)
@@ -180,6 +183,13 @@ This project shows how analytical expertise and data science can be combined to:
 
 - Place laboratory results in a regulatory and technical context
 
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+![project_img](images/fruitscan.png)
+Figure 4. Fruit scan
 
 ## Note on interpretation
 
@@ -231,3 +241,4 @@ If you have any questions or are interested in discussing food safety, residue a
 ##### rina-ink | Marina Dominkovic
 
 ##### (Scientific Associate / Food Safety Background)
+
